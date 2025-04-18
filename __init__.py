@@ -1,7 +1,7 @@
-try:
-    from . import prestartup_script
-except Exception as e:
-    print(f"Ошибка при выполнении prepare_environment: {e}")
+# try:
+#     from . import prestartup_script
+# except Exception as e:
+#     print(f"Ошибка при выполнении prepare_environment: {e}")
 
 import sys
 import os
